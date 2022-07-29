@@ -1,4 +1,4 @@
-# Impact Analysis of COVID 19
+# Impact Analysis of COVID 19 on AQI
 This project involves exploratory data analysis of air pollutants amidst the corona virus pre and post lockdown in various Indian cities.
 Datasets are downloaded from the following website: https://aqicn.org/data-platform/covid19/
 There are many pollutants present in the atmosphere that causes air pollution but in this project I am majorily focusing on 3 major pollutants:
